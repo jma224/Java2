@@ -1,5 +1,4 @@
-//Name:Jingyan Ma
-//ID: 260783581
+//* Jingyan Ma *//
 
 import java.io.Serializable;
 import java.util.ArrayList;
